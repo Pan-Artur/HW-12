@@ -41,11 +41,11 @@ obj.countProps(obj);
 console.log("Task-3");
 
 const workers = {
-  Роман: 12,
-  Анастасія: 7,
-  Кирило: 15,
-  Вадим: 6,
-  Христина: 13,
+  novel: 12,
+  anastasia: 7,
+  kirill: 15,
+  vadim: 6,
+  christina: 13,
 };
 
 const findBestEmployee = (employees) => {
@@ -70,10 +70,10 @@ findBestEmployee(workers);
 console.log("Task-4");
 
 const salaryOfWorkers = {
-  Георгій: "12000грн",
-  Катерина: "30000грн",
-  Павло: "24500грн",
-  Микола: "14600грн",
+  george: "12000грн",
+  catherine: "30000грн",
+  paul: "24500грн",
+  mykola: "14600грн",
 };
 
 const countTotalSalary = (salaryOfEmployees) => {
